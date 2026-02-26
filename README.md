@@ -70,7 +70,7 @@ fits_files = [
     "GREENLAND_20170906_115514_62.fit.gz",
     "GREENLAND_20170906_121014_62.fit.gz",
     "GREENLAND_20170906_122514_62.fit.gz",
-]
+]#example fits files given
 
 obs = run_pipeline(
     fits_paths=fits_files,
@@ -195,7 +195,6 @@ PyCallisto-SRB-Sonification/
 
 | Name | Affiliation |
 |------|-------------|
-| **Mr. Ravindra Pawase** | Data Scientist, Cummins Inc., Pune 411 004, India |
 | **Dr. K. Sasikumar Raja** | Assistant Professor, Indian Institute of Astrophysics, Bengaluru 560 034, India |
 | **Mr. Mrutyunjaya Muduli** | B.E. Computer Science and Engineering, HKBK College of Engineering, Bengaluru 560 045, India |
 
@@ -216,7 +215,6 @@ https://github.com/studentofstars/PyCallisto-SRB-Sonification
 ## Feedback
 
 For queries or feature requests, contact:
-- ravi.pawase@gmail.com
 - sasikumarraja@gmail.com
 - mudulimrutyunjaya42@gmail.com
 
