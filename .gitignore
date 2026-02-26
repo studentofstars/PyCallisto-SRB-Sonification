@@ -1,0 +1,53 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+
+# FITS data files (large, not for version control)
+*.fit.gz
+*.fit
+*.fits
+*.fits.gz
+
+# Audio / video outputs
+*.wav
+*.mp3
+*.mp4
+*.mid
+*.midi
+
+# Plot outputs
+*.png
+*.jpg
+*.pdf
+plots/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+temp/

@@ -1,0 +1,13 @@
+# Core dependencies
+pyCallisto
+numpy
+matplotlib
+scipy
+astropy
+
+# Optional: MP3 background mixing
+pydub
+
+# System dependency (not pip-installable):
+# ffmpeg  →  sudo apt install ffmpeg   (Linux)
+#          →  brew install ffmpeg      (macOS)
